@@ -1,0 +1,20 @@
+{
+  "name": "CORE_game",
+  "version": "1.0.0",
+  "description": "CORE_game",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaboa/CORE_game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaboa/CORE_game/issues"
+  },
+  "homepage": "https://github.com/Gaboa/CORE_game#readme",
+  "dependencies": {
+    "pixi.js": "^4.8.2"
+  }
+}
